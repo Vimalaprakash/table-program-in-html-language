@@ -1,0 +1,87 @@
+<!DOCTYPE>
+<html>
+<head>
+<style>
+h{
+color:red;
+font-size:50px;
+}
+p{
+color:blue;
+font-size:25px;
+}
+table,th,td{
+border-style:double;
+}
+th:nth-child(even){
+background-color:violet;
+text-align:center;
+}
+td:nth-child(even){
+background-color:violet;
+text-align:left;
+}
+tr:nth-child(even){
+background-color:violet;
+}
+th{
+font-size:50px;
+}
+td{
+font-size:25px;
+}
+tr:hover{
+background-color:orange;
+}
+</style>
+</head>
+<body>
+<h><b>SVP Textiles</b></h>
+<p>Job Vacancy for:
+	Manager post-3persons	
+	Employees-50persons
+	Suprevisor-5persons
+	Women-Employees-25persons
+</p>
+<table style="width=100%;">
+	<tr>
+	<th>Post</th>
+	<th>Salary</th>
+	<th>Timings</th>
+	<th>Startig Age Limit</th>
+	<th>Educaiton-Qualification</th>
+	</tr>
+	<tr>
+	<td>Manager</td>	
+	<td>60,000</td>
+	<td>9.00AM to 8.30PM</td>
+	<td>30</td>
+	<td>Any Degree</td>
+	</tr>
+	<tr>
+	<td>Emplyee</td>
+	<td>25,000</td>
+	<td>9.30AM to 8.00PM</td>
+	<td>20</td>
+	<td>10,+2</td>
+	</tr>
+	<tr>
+	<td>Supervisor</td>
+	<td>35,000</td>
+	<td>10.00AM to 8.00PM</td>
+	<td>25</td>
+	<td>10,+2</td>
+	</tr>
+	<tr>
+	<td>Women Employee</td>
+	<td>25,000</td>
+	<td>10.00AM to 7.00PM</td>
+	<td>25</td>
+	<td>10,+2</td>
+	</tr>
+</table>
+<p><strong>Note:</strong>No salary increase for 1year. Education Qulification 
+must for the post. On the Time all present.</p>
+</body>
+</html>
+	
